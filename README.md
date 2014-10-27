@@ -1,1 +1,1 @@
-Tellki RabbitMQ Availability Monitor
+Tellki Port Monitor
