@@ -1,0 +1,21 @@
+{
+	"author": "guberni",
+	"name": "tellki-rabbitmq-availability-monitor",
+	"description": "Tellki RabbitMQ availability monitor",
+	"version": "0.0.1",
+	"keywords": ["tellki","monitor","rabbitmq","availability","real time"],
+	"homepage": "www.tellki.com",
+	"repository" : { 
+		"type" : "git", "url" : "https://github.com/tellkiApp/tellkiAgent_RabbitMQAvailability.git"  
+	},
+	"main": "./lib/rabbitmq-availability-monitor",
+	"bin": {
+		"tellki-rabbitmq-availability-monitor": "./bin/tellki-rabbitmq-availability-monitor"
+	},
+	"dependencies": {
+        "ampq": ">=0.2.0"
+	},
+	"engines": {
+		"node": "*"
+	}
+}
