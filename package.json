@@ -2,7 +2,7 @@
 	"author": "guberni",
 	"name": "tellki-rabbitmq-availability-monitor",
 	"description": "Tellki RabbitMQ availability monitor",
-	"version": "0.0.7",
+	"version": "0.0.8",
 	"keywords": ["tellki","monitor","rabbitmq","availability","real time"],
 	"homepage": "www.tellki.com",
 	"repository" : { 
